@@ -1,3 +1,6 @@
+"""
+Accuracy score: 0.9921
+"""
 import numpy as np
 
 from keras.models import Sequential
