@@ -1,3 +1,8 @@
+"""
+30 epoch, smaller learning rate.
+
+Accuracy score: 0.99285
+"""
 import numpy as np
 
 from keras.models import Sequential
