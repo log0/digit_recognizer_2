@@ -1,3 +1,8 @@
+"""
+2 layers. 30 epoch.
+
+Accuracy score: 0.989
+"""
 import numpy as np
 
 from keras.models import Sequential
