@@ -1,3 +1,8 @@
+"""
+Use lesser dropout. Based on 6.
+
+Accuracy score: 0.9930
+"""
 import numpy as np
 
 from keras.models import Sequential
