@@ -1,3 +1,8 @@
+"""
+40 epoch with less dropout and 0.3 learning rate in SGD.
+
+Accuracy score: 0.99476
+"""
 import numpy as np
 
 from keras.models import Sequential
