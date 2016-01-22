@@ -1,3 +1,8 @@
+"""
+More units in the last layer.
+
+Accuracy score: 0.9926
+"""
 import numpy as np
 
 from keras.models import Sequential
