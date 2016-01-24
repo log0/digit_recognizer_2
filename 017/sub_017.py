@@ -1,7 +1,7 @@
 """
-40 epoch with less dropout and 0.3 learning rate in SGD.
+Regularizer applied.
 
-Accuracy score: 0.99476
+Accuracy score: 0.9907
 """
 import numpy as np
 
